@@ -1,0 +1,6 @@
+2026-05-02 15:02:22,224 - trading_bot - INFO - Binance Client initialized on Testnet.
+2026-05-02 15:02:22,224 - trading_bot - INFO - Attempting MARKET BUY order: 0.001 BTCUSDT
+2026-05-02 15:02:23,338 - trading_bot - INFO - MARKET order successful: 13099303314
+2026-05-02 17:16:06,263 - trading_bot - INFO - Binance Client initialized on Testnet.
+2026-05-02 17:16:06,264 - trading_bot - INFO - Attempting LIMIT SELL order: 0.001 BTCUSDT at 95000.0
+2026-05-02 17:16:07,059 - trading_bot - INFO - LIMIT order successful: 13099601862
